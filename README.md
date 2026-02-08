@@ -51,3 +51,34 @@ This project demonstrates:
 ## Important Note
 The dataset and full source code are intentionally not included to prevent unauthorized academic or commercial reuse.  
 This repository is provided strictly for portfolio evaluation and project demonstration.
+
+---
+
+## Analysis Visualizations
+
+### Stock Price Trend
+![Stock Trend](images/stock-price-trend-hdfc.png)
+
+### Daily Returns Distribution
+![Returns Distribution](images/daily-returns-distribution.png)
+
+### Moving Average Analysis
+![Moving Average](images/moving-average-analysis.png)
+
+### Portfolio Performance Comparison
+![Portfolio Comparison](images/portfolio-performance-comparison.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/stock-correlation-heatmap.png)
+
+### Risk vs Return
+![Risk Return](images/risk-vs-return-analysis.png)
+
+### Price Forecast
+![Forecast](images/stock-price-forecast.png)
+
+### Seasonality Analysis
+![Seasonality](images/time-series-seasonality-analysis.png)
+
+### Tableau Dashboard Preview
+![Dashboard](images/tableau-dashboard-overview.png)
