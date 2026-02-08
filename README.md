@@ -48,6 +48,19 @@ This project demonstrates:
 
 ---
 
+## Skills Demonstrated
+- Financial data analysis
+- Time series analysis
+- Data visualization
+- Statistical interpretation
+- Risk and return analysis
+- Correlation analysis
+- Forecasting using Prophet
+- Dashboard development in Tableau
+- Business insight communication
+
+---
+
 ## Important Note
 The dataset and full source code are intentionally not included to prevent unauthorized academic or commercial reuse.  
 This repository is provided strictly for portfolio evaluation and project demonstration.
