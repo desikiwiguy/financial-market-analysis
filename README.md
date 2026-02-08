@@ -1,8 +1,8 @@
 # Financial Market Analysis & Price Forecasting
 
 ## Live Interactive Dashboard
-Tableau Public Link:
-(PASTE YOUR TABLEAU PUBLIC LINK HERE)
+▶ View the interactive Tableau dashboard:
+https://public.tableau.com/views/FinancialMarketAnalysisForecastingNSEStocks/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
